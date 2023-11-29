@@ -20,5 +20,5 @@ def notas(*n, sit=False):
     return r
 
 
-resp = notas(5.5, 2.5, 1.5, sit=True)
+resp = notas(5.5, 2.3, 1.5, sit=True)
 print(resp)
